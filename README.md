@@ -204,4 +204,4 @@ This repository serves as the official landing page for Navicat for MySQL. The s
 **Get the most recent version of Navicat for MySQL today!**
 
 ---
-**Last updated:** 2026-11-09 07:42:05 UTC
+**Last updated:** 2026-11-10 01:54:11 UTC
